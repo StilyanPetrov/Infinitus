@@ -172,6 +172,10 @@ Resources:
               nginx: []
         run_service-webserver:
           commands:
+          
+          
+          
+          
             start_weberver:
               command: /etc/init.d/nginx start
     Properties:
